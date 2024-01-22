@@ -6,8 +6,8 @@ Auth
 
 # Admin Credentials
 ```bash
-admin@admin.com
-password
+Email: admin@admin.com
+Pass: password
 ```
 
 

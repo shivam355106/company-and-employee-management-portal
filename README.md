@@ -1,6 +1,6 @@
 # company-and-employee-management-portal
 
-## Usage package
+## Usage packages
 DataTables, 
 Auth
 
